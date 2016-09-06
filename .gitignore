@@ -1,0 +1,15 @@
+# Racket
+ivy
+compiled
+*.bak
+
+# Editors
+*.swp
+*.swo
+*~
+
+# OS X build products and intermediates
+*.icns
+ivy.app
+mac.iconset
+.DS_Store
